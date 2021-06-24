@@ -1,0 +1,30 @@
+#Menu{
+    background-color:rgb(209, 219, 221) ;
+    font-style: initial;
+    text-decoration-style: initial;
+    font-size: 50px;
+    
+}
+table{
+    text-decoration-style: double;
+    font-style: italic;
+    background-color: cyan;
+
+}
+.gallery img{
+
+    width: 50%;
+}
+h2{
+    font-weight: bolder;
+    font-size: 50px;
+    color: darkviolet;
+}
+p{
+    font-style: italic;
+    font-size: 25px;
+    color: darkviolet;
+}
+h3{
+    font-size: 30px;
+}
